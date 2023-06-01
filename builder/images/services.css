@@ -1,0 +1,59 @@
+body{
+    /* padding: 3%; */
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.sectionx1{
+    /* height: 110vh; */
+    font-size: 15px;
+    padding: 3%;
+
+}
+
+.services{
+    text-align: center;
+    color: #001731;
+    /* font-size: large; */
+}
+
+.services h2{
+    font-size: 38px;
+    color: #001731;
+    line-height: 44px;
+    font-style: normal;
+    display: block;
+    letter-spacing: .8px;
+    font-stretch: normal;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+}
+
+.card-reader{
+    display: flex;
+    padding: 6px;
+    justify-content: space-between;
+    color:  #001731;
+}
+
+.card-text{
+    margin-top: 1%;
+    font-size: large;
+}
+
+.card2 img{
+    margin-top: 30%;
+    width: 300px;
+}
+.card2 h3{
+    margin-left: 35px;
+}
+
+span{
+    margin-left: 35%;
+}
+
+

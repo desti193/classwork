@@ -1,0 +1,161 @@
+*{
+    
+    padding: 0;
+    margin: 0;                                          
+    box-sizing: border-box;
+}
+
+.navv h1{
+    padding: 10px;
+    background-color:none;
+    margin-right: 50%;
+    color: #D9F7FA;
+}
+h1:hover {
+color: rgb(68, 102, 83);
+}
+
+ 
+.section1{
+    height: 150vh;
+    background-image: url(/imagereader\ \(1\).webp);
+    background-size: cover;
+}
+
+ul,
+li,
+a {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    
+}
+
+.navv {
+    display: flex;
+}
+a:hover {
+    color: gold;
+    background-color: rgb(0, 25, 145);
+
+}
+
+.main{
+   padding: 0%;
+   margin: 0%;
+ 
+}
+
+.main h1{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.hero_img{
+    margin-top: 5%;
+    
+}
+
+.main_text{
+    margin-top: 7%;
+    font-size: large;
+}
+
+.picker1{
+    display: flex;
+    justify-content: space-around;
+    grid-row: 2;
+    height: 85vh;
+}
+
+.main p{
+    padding-left: 10%;
+    margin-top: 7%;
+    font-size: 20px;
+    
+}
+
+.main_text span{
+    font-size: 27px;
+    color: #001731;
+}
+
+.picker2{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+}
+
+.main_text2 p {
+    margin-right: 30px;
+    font-size: 20px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+}
+
+.hero_img2{
+    margin-left: 30px;
+}
+
+.main_text2 h2{
+    margin-left: 30%;
+    margin-bottom: 10px;
+}
+
+
+.blue{
+    height: 130vh;
+    background-color: #001731;
+    color: #999;
+    padding: 40px;
+}
+
+
+.blue h2{
+    padding-bottom: 3%;
+    font-size: 24px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 32px;
+    color: whitesmoke;
+}
+
+.picker3{
+    padding: 5%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+
+button{
+    box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    text-decoration: none;
+    border: 1px solid #c29b40;
+    background-color: #001731;
+    color: white;
+}
+
+.btn{
+    padding: 6%;
+}
+
+.btn2{
+    padding-top: 10%;
+}
+
+.btn2 :hover{
+    background-color: #c29b40;
+}
+
+

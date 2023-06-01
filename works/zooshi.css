@@ -1,0 +1,48 @@
+*{
+    /* margin: 10px; */
+    font-size: 20px;
+    background-color:#84a98c ;
+}
+nav,
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+li,
+ul,
+a{
+   text-decoration: none;
+   gap: 20px;
+   font-size: medium;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+
+}
+
+.logo{
+    color: whitesmoke;
+}
+
+.text{
+    text-align: center;
+    padding-top: 4%;
+    color: whitesmoke;
+    font-size: large;
+    
+}
+
+h1{
+    font-size: 60px;
+
+}
+
+span{
+    border:solid whitesmoke;
+    border-radius: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
